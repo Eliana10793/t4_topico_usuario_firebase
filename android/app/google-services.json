@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "67188594912",
+    "project_id": "t4-topico-usuario",
+    "storage_bucket": "t4-topico-usuario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67188594912:android:3a9b3ec90dc91039ad9885",
+        "android_client_info": {
+          "package_name": "mezr.t4_topico_usuario_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67188594912-poavvlcekj9phskb08qmcmm5v8j6ec1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mezr.t4_topico_usuario_firebase",
+            "certificate_hash": "bb651829583f2fdb95faa5539c42351459fe3db8"
+          }
+        },
+        {
+          "client_id": "67188594912-ksb37ebubu531a92p9ia1k9lqhe3t7g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV4fiU-dCOzTx2AT7tMvadwwj2foXj-Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67188594912-ksb37ebubu531a92p9ia1k9lqhe3t7g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
